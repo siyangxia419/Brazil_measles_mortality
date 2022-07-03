@@ -1,0 +1,1 @@
+This repository contains R codes to to examine the association between measles mortality and other infectious disease mortality in child age 1-9 in Brazil between 1980 and 1995. Description of the project can be found in https://academic.oup.com/jid/advance-article-abstract/doi/10.1093/infdis/jiac233/6619609
